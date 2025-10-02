@@ -1,36 +1,32 @@
-````markdown name=README.md url=https://github.com/Retired-Gamer1/Retired-Gamer1/blob/main/README.md
 # Hi there, I'm Retired-Gamer1 👋
 
-[![Profile views](https://komarev.com/ghpvc/?username=Retired-Gamer1&color=green)](https://github.com/Retired-Gamer1)
+![Profile views](https://komarev.com/ghpvc/?username=Retired-Gamer1&color=green)
 
-## About
-I'm a retired gamer who likes building small, practical tools, tinkering with code, and sharing what I learn. I focus on clarity and usefulness — scripts, CLIs, and lightweight web tools are my jam.
+## About Me
+I'm a retired gamer who likes building small, practical tools, tinkering with code, and sharing what I learn.
 
-- 🔭 Currently working on: polishing personal projects and learning new tooling
-- 🌱 Learning: Rust and TypeScript
-- 💬 Ask me about: game modding, automation scripts, hobby projects
-- ⚡ Fun fact: I log retro gaming sessions and occasionally build companion tools
+- 🔭 Working on: ARM hex converters & modding utilities  
+- 🌱 Learning: Rust & TypeScript  
+- 💬 Ask me about: Game modding, automation scripts, hobby projects  
+- ⚡ Fun fact: I log retro gaming sessions and build companion tools  
 
-## Featured Projects
-- [project-one](https://github.com/Retired-Gamer1/project-one) — Helpful utility or game mod
-- [project-two](https://github.com/Retired-Gamer1/project-two) — Small web app or tool
-- [project-utils](https://github.com/Retired-Gamer1/project-utils) — Reusable scripts and helpers
+## 🚀 Featured Projects
+- [Value-to-hex-converter](https://github.com/Retired-Gamer1/Value-to-hex-converter) — ARM hex converter  
+- [Pairip-Killer-By-retired-Gamer](https://github.com/Retired-Gamer1/Pairip-Killer-By-retired-Gamer) — Game tool  
+- [GGIl2cpp](https://github.com/Retired-Gamer1/GGIl2cpp) — IL2CPP + GameGuardian scripts  
 
-(Replace the links above with real repo URLs if you want them to point to your work.)
+## 🛠 Tech & Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-## Tech & Tools
-- Languages: JavaScript • TypeScript • Python • Rust (learning)
-- Tools: Git • GitHub Actions • Docker • VS Code
-- Interests: Game modding, CLI tools, small web projects
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Retired-Gamer1&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Retired-Gamer1&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Retired-Gamer1&theme=tokyonight)
 
-## GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Retired-Gamer1&layout=compact&theme=tokyonight)](https://github.com/Retired-Gamer1)
-[![Stats](https://github-readme-stats.vercel.app/api?username=Retired-Gamer1&show_icons=true&theme=tokyonight)](https://github.com/Retired-Gamer1)
-
-## Contact
-- Email: plutoprecido1@gmail.com
-- GitHub: https://github.com/Retired-Gamer1
-
----
-
-Thanks — I updated this README to a cleaner, GitHub-friendly profile layout. Update the project links and details as you like, or tell me which repos to link and I can add them for you.``
+## 📬 Contact
+- Email: plutoprecido1@gmail.com  
+- Telegram: [Newbotprexh](https://t.me/Newbotprexh) | [RetiredGamerMods](https://t.me/retiredgamermods)  
+- GitHub: [Retired-Gamer1](https://github.com/Retired-Gamer1)
