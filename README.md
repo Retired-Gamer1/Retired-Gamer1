@@ -1,4 +1,4 @@
-````markdown name=README.md url=https://github.com/Retired-Gamer1/Retired-Gamer1/blob/main/README.md
+```markdown name=README.md url=https://github.com/Retired-Gamer1/Retired-Gamer1/blob/main/README.md
 <!-- PROFILE README FOR Retired-Gamer1 -->
 
 <div align="center">
@@ -110,4 +110,4 @@ Want me to link real cert badges/URLs? Provide the certificate links and I'll at
 <p align="center">Built with ☕ Java energy, 🔧 curiosity, and a dash of chaos. Want more badges, real cert links, or custom GIFs? Say the word and I'll wire them in.</p>
 
 <!-- End of Profile README -->
-````
+```
