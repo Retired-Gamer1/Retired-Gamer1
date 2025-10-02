@@ -38,6 +38,6 @@ I focus on clarity and usefulness — scripts, CLIs, and lightweight web tools a
 ---
 
 ## 📬 Contact
-- 📧 Email: **plutoprecido1@gmail.com**  
+- 📧 Email: **gamerretired1@gmail.com**  
 - 💬 Telegram: [Newbotprexh](https://t.me/Newbotprexh) | [RetiredGamerMods](https://t.me/retiredgamermods)  
 - 🐙 GitHub: [Retired-Gamer1](https://github.com/Retired-Gamer1)
